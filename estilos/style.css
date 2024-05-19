@@ -35,7 +35,7 @@ Lilás: #5f2c82 */
         transition-timing-function: ease;
         
         background-color: white;
-        width: 250px;
+        width: 270px;
         height: 500px;
         border-radius: 20px;
         overflow: hidden;
@@ -54,6 +54,19 @@ Lilás: #5f2c82 */
         display: block;
         padding: 10px;
     }
+
+    
+
+    div#formulario > h1{
+
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    div#formulario > p{
+        font-size: 0.8em;
+    }
+
     
 
             
