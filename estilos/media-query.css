@@ -3,10 +3,13 @@
 @media  screen and (min-width: 768px ) and (max-width: 991px) {
     body{
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
+        padding: 10px;
     }
 
    section#login{
     width: 80vw;
+    height: 380px;
+    padding: 10px;
 
    }
    section#login > div#imagem{
@@ -33,6 +36,8 @@
 
     section#login{ 
         width: 992px;
+        height: 500px;
+        padding: 20px;
     }
     
     section#login > div#imagem {
